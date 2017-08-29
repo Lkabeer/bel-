@@ -73,3 +73,23 @@ input, textarea {
     padding: .5em;
     border: 2px solid #fff;
 }
+
+footer {
+    color: #656565;
+}
+
+.fa-facebook {
+    background-color: #3b5997;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 35%;
+    margin-left: 10px;
+}
+
+.fa-play {
+    background-color: #d12f2f;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 35%;
+    margin-left: 5px;
+}
