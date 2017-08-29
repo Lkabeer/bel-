@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Mada');
+
+body {
+    font-family: 'Mada', sans-serif;
+}
+
+.rightX {
+    float: left;
+}
+
+.fa-facebook {
+    margin-right: 10px;
+}
