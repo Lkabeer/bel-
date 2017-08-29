@@ -1,0 +1,41 @@
+#pageX {
+    background-image: url("../images/headerX.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.lvQrLeft, .lvQrRight {
+    margin-top: 250px;
+}
+
+.btn-primary.form-control {
+    background-color: #c4251f;
+}
+
+h2 {    
+    background-image: url("../images/line.png");
+    background-repeat: no-repeat;
+    padding-bottom: 20px !important;
+    background-position: left;
+}
+
+@media screen and (max-width: 767px) and (min-width: 600px) {
+    .lvQrLeft {
+        margin-top: 200px;
+    }
+    
+    .lvQrRight { 
+        margin-top: 0;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .lvQrLeft {
+        margin-top: 150px;
+    }
+    
+    .lvQrRight { 
+        margin-top: 0;
+    }
+}
+

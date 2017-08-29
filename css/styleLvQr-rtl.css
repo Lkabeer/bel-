@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Mada');
+
+body {
+    font-family: 'Mada', sans-serif;
+}
+
+#pageX {
+    background-image: url("../images/headerXAr.png");
+}
+
+h2 {    
+    background-image: url("../images/lineAr.png");
+    background-position: right;
+}
+
+.rightX {
+    float: left;
+}
+
+.fa-facebook {
+    margin-right: 10px;
+}
